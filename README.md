@@ -4,6 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ogoodness&color=green)
 
 **Graduated From:** [@Northern Kentucky University](https://www.nku.edu)
+
 **Working For:** General Electric Aviation
 
 [![twitter badge](https://img.shields.io/badge/-@NoahFields_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoahFields_)
