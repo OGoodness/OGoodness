@@ -1,7 +1,8 @@
-### Hello! 👋 I'm Noah Fields
+<h1 align="center">Hello! 👋 I'm Noah Fields</h1>
 ![](https://komarev.com/ghpvc/?username=ogoodness&color=green)
 
-Graduated From: [@Northern Kentucky University](https://www.nku.edu)
+**Graduated From:** [@Northern Kentucky University](https://www.nku.edu)
+**Working For:** General Electric Aviation
 
 [![twitter badge](https://img.shields.io/badge/-@NoahFields_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoahFields_)
 [![dev.to badge](https://img.shields.io/badge/-Noah_Fields-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/-NoahFields)
@@ -14,8 +15,11 @@ Graduated From: [@Northern Kentucky University](https://www.nku.edu)
   - Score Keeping Website for a local business
 - 💬 Ask me about **Anything any time 😀**
 - 🌱 I’m currently learning 
-  - AWS Cloudformation and CI/CD implementation
+  - AWS CloudFormation and CI/CD Implementation
   - GoLang
+- 👯 I’m looking to collaborate on **Basically Anything**
+- 😄 Pronouns: He/Him
+
 
 
 #### Languages
