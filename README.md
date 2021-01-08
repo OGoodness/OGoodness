@@ -19,6 +19,7 @@
 - 💬 Ask me about **Anything any time 😀**
 - 🌱 I’m currently learning 
   - AWS CloudFormation and CI/CD Implementation
+  - ReactJS
   - GoLang
 - 👯 I’m looking to collaborate on **Basically Anything**
 - 😄 Pronouns: He/Him
