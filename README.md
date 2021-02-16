@@ -13,16 +13,20 @@
 
 - 🔭 I’m currently working on ...
   - AWS Certified Developer Certificate
-  - Platform Fighter Unity Game
-  - React Native Article Reading Tracker
   - Score Keeping Website for a local business
+  - [VSCode Assembly Support (Syntax, Definitions, References)](https://github.com/OGoodness/VSCode-PowerPC-Syntax)
+  - Contributing to [project-slippi](https://github.com/project-slippi)
 - 💬 Ask me about **Anything any time 😀**
 - 🌱 I’m currently learning 
+  - TypeScript
   - AWS CloudFormation and CI/CD Implementation
   - ReactJS
   - GoLang
 - 👯 I’m looking to collaborate on **Basically Anything**
 - 😄 Pronouns: He/Him
+- 📚 Some of my older projects include ...
+  - Platform Fighter Unity Game
+  - React Native Article Reading Tracker
 
 
 
