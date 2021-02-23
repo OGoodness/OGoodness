@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I'm Noah Fields</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Noah Fields</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=ogoodness&color=green)
