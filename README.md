@@ -57,7 +57,9 @@
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 
-
+- My NPM Packages:
+  - [slippi-cli](https://www.npmjs.com/package/slippi-cli)
+  - [gharchive](https://www.npmjs.com/package/gharchive)
 
 <!-- <a href="https://www.input-fields.com/"> -->
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ogoodness&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogoodness&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
