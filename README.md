@@ -9,7 +9,7 @@
 
 [![twitter badge](https://img.shields.io/badge/-@NoahFields_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoahFields_)
 [![dev.to badge](https://img.shields.io/badge/-Noah_Fields-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/-NoahFields)
-![githubbadge](https://img.shields.io/github/followers/OGoodness?style=social)
+[![githubbadge](https://img.shields.io/github/followers/OGoodness?style=social)](https://github.com/OGoodness)
 
 - 🔭 I’m currently working on ...
   - AWS Certified Developer Certificate
