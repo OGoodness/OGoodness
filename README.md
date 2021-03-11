@@ -1,4 +1,4 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Noah Fields</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"> I'm Noah Fields</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=ogoodness&color=green)
@@ -62,7 +62,7 @@
   - [gharchive](https://www.npmjs.com/package/gharchive)
 
 <!-- <a href="https://www.input-fields.com/"> -->
-  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ogoodness&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogoodness&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
+  <img alt="github-stats-image" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ogoodness&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="github-stats-image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogoodness&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
 <!-- </a> -->
 
 
