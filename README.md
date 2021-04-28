@@ -5,28 +5,33 @@
 
 **Graduated From:** [@Northern Kentucky University](https://www.nku.edu)
 
-**Working For:** General Electric Aviation
+**Working For:** Amazon Web Services
 
 [![twitter badge](https://img.shields.io/badge/-@NoahFields_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoahFields_)
 [![dev.to badge](https://img.shields.io/badge/-Noah_Fields-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/-NoahFields)
 [![githubbadge](https://img.shields.io/github/followers/OGoodness?style=social)](https://github.com/OGoodness)
 
 - 🔭 I’m currently working on ...
-  - AWS Certified Developer Certificate
-  - Score Keeping Website for a local business
+  - Revamping my personal website into React
+  - IoT Device to count the number of people a car drives by
   - [VSCode Assembly Support (Syntax, Definitions, References)](https://github.com/OGoodness/VSCode-PowerPC-Syntax)
   - Contributing to [project-slippi](https://github.com/project-slippi)
-- 💬 Ask me about **Anything any time 😀**
+- 💬 Ask me about **Anything, Any time 😀**
 - 🌱 I’m currently learning 
   - TypeScript
-  - AWS CloudFormation and CI/CD Implementation
-  - ReactJS
   - GoLang
+  - Misc IoT Skills 
 - 👯 I’m looking to collaborate on **Basically Anything**
 - 😄 Pronouns: He/Him
 - 📚 Some of my older projects include ...
   - Platform Fighter Unity Game
+  - Morse Code Websocket Chat (Website)
+  - [VSCode Morse Code Chat Plugin](https://marketplace.visualstudio.com/items?itemName=OGoodness.morsecode-chat)
+  - Automated Pentesting Suite (Recon, Common Attacks, Analysis) 
   - React Native Article Reading Tracker
+  - Score Keeping Website for a local business
+  - Area Calculator Site/Mobile App Using Google Maps
+  - Custom Serverless "OAuth" Implementation (Slightly Different)
 
 
 
@@ -64,8 +69,6 @@
 <!-- <a href="https://www.input-fields.com/"> -->
   <img alt="github-stats-image" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ogoodness&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="github-stats-image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogoodness&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
 <!-- </a> -->
-
-
 
 
 
